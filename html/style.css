@@ -1,0 +1,41 @@
+body {
+	background-color: transparent;
+}
+
+.temperature {
+	display: flex;
+	position: absolute;
+	/*left: 0.9vw;*/
+	/*top: 96.3vh;*/
+	font-size: 2.1vh;
+	background-color: none;
+	/*background-image: url("background.png");*/
+	background-size: 100% 100%;
+	/*text-shadow: 0px 0px 12px #000000;*/
+	padding: 0.6vh 0.9vh 0.6vh 0.9vh;
+}
+
+.temptext{
+	font-family: Rye;
+	font-size: 1.4vh;
+}
+
+.fa-thermometer-0 {
+	color: SteelBlue;
+}
+
+.fa-thermometer-1 {
+	color: CadetBlue;
+}
+
+.fa-thermometer-2 {
+	color: OliveDrab;
+}
+
+.fa-thermometer-3 {
+	color: GoldenRod;
+}
+
+.fa-thermometer-4 {
+	color: FireBrick;
+}
