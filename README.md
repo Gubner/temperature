@@ -3,6 +3,7 @@
 Simple temperature hud for RedM
 
 Highly configurable for:
+- Position on screen
 - Temperature as text or numeric
 - Celsius or Fahrenheit
 - Image background, solid background, or no background
